@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 const UserProfile = () => {
-  return <div>userProfile</div>;
-};
+  return <div className="">userProfile</div>
+}
 
-export default UserProfile;
+export default UserProfile
